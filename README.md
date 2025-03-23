@@ -18,6 +18,8 @@
 <h4>Courses</h4>
 
 <ul>
+    <li>Google Cloud, Introduction to Docker: <a href="https://github.com/january1073/training/blob/main/google/google_intro_docker.pdf">show</a></li>
+    <li>Google Cloud Fundamentals: Core Infrastructure: <a href="https://github.com/january1073/training/blob/main/google/google_cloud_fundamentals.pdf">show</a></li>
     <li>IBM, Quantum-Safe Encryption Essentials: <a href="https://github.com/january1073/training/blob/main/ibm/ibm_quantum-safe.pdf">show</a></li>
     <li>IBM, Zero Trust Principles: <a href="https://github.com/january1073/training/blob/main/ibm/ibm_zero_trust.pdf">show</a></li>
     <li>Yonsei University, Introduction to TCP/IP: <a href="https://github.com/january1073/training/blob/main/yonsei/yonsei_intro_tcp_ip.pdf">show</a></li>
