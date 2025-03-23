@@ -1,3 +1,5 @@
-# certifications
+<h4>Certifications</h4>
 
-- ISC2, Certified in Cybersecurity
+<ul>
+  <li>ISC2, Certified in Cybersecurity: <a href="...">certificate</a>
+</ul>
