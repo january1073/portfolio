@@ -1,4 +1,4 @@
-<h3 align="center">Training</h3>
+<h3 align="center">Training (selection)</h3>
 
 <h4>Certificates</h4>
 
