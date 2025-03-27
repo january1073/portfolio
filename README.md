@@ -15,9 +15,11 @@
 <li>NYU Tandon School of Engineering, Introduction to Cyber Security: <a href="https://github.com/january1073/training/blob/main/nyu/nyu_intro_cyber_security.pdf">show</a></li>
 </ul>
 
-<h4>Courses</h4>
+<h4>Courses & training projects</h4>
 
 <ul>
+    <li>Google Cloud Fundamentals: Core Infrastructure: <a href="https://github.com/january1073/training/blob/main/google/google_cloud_fundamentals.pdf">show</a></li>
+    <li>Google Cloud, Introduction to Docker: <a href="https://github.com/january1073/training/blob/main/google/google_intro_docker.pdf">show</a></li>
     <li>IBM, Quantum-Safe Encryption Essentials: <a href="https://github.com/january1073/training/blob/main/ibm/ibm_quantum-safe.pdf">show</a></li>
     <li>IBM, Zero Trust Principles: <a href="https://github.com/january1073/training/blob/main/ibm/ibm_zero_trust.pdf">show</a></li>
     <li>Packt, Cisco CCST Networking &ndash; Video Training Series: <a href="https://github.com/january1073/training/blob/main/packt/packt_cisco_ccst_video_training.pdf">show</a></li>
