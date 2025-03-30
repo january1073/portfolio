@@ -28,8 +28,6 @@ Thus, in the Google Cloud Security Command Center (SCC), I found the following f
 
 ![findings_by_resource](https://github.com/january1073/training/blob/main/google/google_cloud_cybersecurity/capstone/2_findings_resource.png)
 
-This report details the response and remediation actions taken, as well as recommendations to mitigate similar risks in the future.
-
 ### Remediation
 
 I remediated all major threats, i.e. findings with high and medium severity. Afterwards, the SCC displayed the following findings:
@@ -44,7 +42,7 @@ I remediated all major threats, i.e. findings with high and medium severity. Aft
 
 ## Security Incident Report
 
-To complete the capsone project, I had to document my findings as well as my response and remediation measures and recommendations in a security incident report: ![Report](https://github.com/january1073/training/blob/main/google/google_cloud_cybersecurity/capstone/capstone_final_report.pdf)
+To complete the capsone project, I had to document my findings in a security incident report. This report details the response and remediation actions taken, as well as recommendations to mitigate similar risks in the future: ![Report](https://github.com/january1073/training/blob/main/google/google_cloud_cybersecurity/capstone/capstone_final_report.pdf)
 
 ## Badge
 
