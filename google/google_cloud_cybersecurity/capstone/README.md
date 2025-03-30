@@ -10,11 +10,15 @@ machine (VM) with open SSH and RDP ports, and a publicly accessible storage buck
 access by exploiting open ports on the cc-app-01 VM, executed a brute-force attack, deployed malware, escalated privileges using a compromised service account key, and ultimately exfiltrated data from
 BigQuery via a publicly exposed storage bucket.
 
-## Google Cloud Security Command Center
+## Lab
+
+In the lab, my tasks were to respond and recover from the data breach.
+
+![title](https://github.com/january1073/training/blob/main/google/google_cloud_cybersecurity/capstone/0_screenshot_title.png)
 
 ### Findings
 
-In the Google Cloud Security Command Center (SCC), the following findings were displayed:
+Thus, in the Google Cloud Security Command Center (SCC), I found the following findings:
 
 #### By category:
 
@@ -28,7 +32,7 @@ This report details the response and remediation actions taken, as well as recom
 
 ### Remediation
 
-After I remediated all major threats (high and medium severity), the SCC displayed the following findings:
+I remediated all major threats, i.e. findings with high and medium severity. Afterwards, the SCC displayed the following findings:
 
 #### By category
 
