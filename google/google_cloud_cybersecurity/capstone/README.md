@@ -18,7 +18,7 @@ In the lab, my tasks were to respond and recover from the data breach.
 
 ### Findings
 
-Thus, in the Google Cloud Security Command Center (SCC), I found the following findings:
+In the Google Cloud Security Command Center (SCC), I found the following findings:
 
 #### By category:
 
