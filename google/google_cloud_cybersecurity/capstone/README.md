@@ -28,7 +28,7 @@ This report details the response and remediation actions taken, as well as recom
 
 ### Remediation
 
-After I remediated all major threats, the SCC displayed the following findings :
+After I remediated all major threats (high and medium severity), the SCC displayed the following findings:
 
 #### By category
 
