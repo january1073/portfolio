@@ -4,7 +4,7 @@
 
 ### Respond and Recover from a Data Breach in Google Cloud - Capstone Project of the Google Cloud Cybersecurity Certificate
 ![Screenshot](https://github.com/january1073/portfolio/blob/main/google/google_cloud_cybersecurity/capstone/1_findings_category.png)
-<a href="https://github.com/january1073/portfolio/tree/main/google/google_cloud_cybersecurity/capstone">details</a>
+<a href="https://github.com/january1073/portfolio/tree/main/google/google_cloud_cybersecurity/capstone">more</a>
 
 ## Certificates
 
