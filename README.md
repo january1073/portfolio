@@ -27,3 +27,7 @@
 - Packt, Cisco CCST Networking &ndash; Video Training Series: <a href="https://github.com/january1073/portfolio/blob/main/packt/packt_cisco_ccst_video_training.pdf">show</a>
 - Packt, YAML Fundamentals for DevOps, Cloud and IaC Engineers: <a href="https://github.com/january1073/portfolio/blob/main/packt/packt_yaml_fundamentals.pdf">show</a>
 - Yonsei University, Introduction to TCP/IP: <a href="https://github.com/january1073/portfolio/blob/main/yonsei/yonsei_intro_tcp_ip.pdf">show</a>
+
+## Others
+
+-TryHackMe, Advent of Cyber 2024: <a href="https://github.com/january1073/portfolio/blob/main/thm/thm_aoc24.pdf">show</a>
