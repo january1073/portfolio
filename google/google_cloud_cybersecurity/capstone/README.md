@@ -1,5 +1,5 @@
 # Respond and recover from a data breach in Google Cloud
-## Capstone project of the Google Cloud Cybersecurity Certificate
+### Capstone project of the Google Cloud Cybersecurity Certificate
 For the Google Cloud Cybersecuity Certificate capstone project, in addition to video lectures and multiple-choice questions, I had to complete practical tasks in a Google Cloud lab and create a security incident report.
 
 ## Facts (fictitious)
@@ -41,7 +41,7 @@ After I have taken the necessary response and remediation actions in Google Clou
 
 ## Security Incident Report
 
-To complete the capsone project, I had to document my findings in a security incident report. This report details the response and remediation actions taken, as well as recommendations to mitigate similar risks in the future: ![Report](https://github.com/january1073/training/blob/main/google/google_cloud_cybersecurity/capstone/capstone_final_report.pdf)
+To complete the capsone project, I had to document my findings in a security incident report. This report details the response and remediation actions taken, as well as recommendations to mitigate similar risks in the future: ![final report](https://github.com/january1073/training/blob/main/google/google_cloud_cybersecurity/capstone/capstone_final_report.pdf)
 
 ## Badge
 
