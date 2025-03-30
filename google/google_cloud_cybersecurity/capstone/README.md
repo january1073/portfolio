@@ -30,7 +30,13 @@ Thus, in the Google Cloud Security Command Center (SCC), I found the following f
 
 ### Remediation
 
-I remediated all major threats, i.e. findings with high and medium severity. Afterwards, the SCC displayed the following findings:
+I remediated all major threats, i.e. findings with high and medium severity, in particular the misconfigurations the
+
+- Insecure firewall;
+- Exposed VM; and
+- Publicly accessible storage bucket.
+
+After I have taken all necessary response and remediation actions, the SCC displayed the following findings:
 
 #### By category
 
