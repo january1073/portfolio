@@ -1,6 +1,6 @@
 # Google Cloud Cybersecurity Certificate - Capstone Project
 
-For the capstone project, in addition to video lectures and multiple-choice questions, I had to complete practical tasks in a Google Cloud lab and create a security incident report.
+For the Google Cloud Cybersecuity Certificate capstone project, in addition to video lectures and multiple-choice questions, I had to complete practical tasks in a Google Cloud lab and create a security incident report.
 
 ## Facts (fictitious)
 
@@ -40,8 +40,10 @@ After I remediated all major threats, the SCC displayed the following findings :
 
 ## Security Incident Report
 
-To complete the capsone project, I had to document my findings as well as my response and remediation measures and recommendations in a security incident report: ![final_report](google/google_cloud_cybersecurity/capstone/capstone_final_report.pdf)
+To complete the capsone project, I had to document my findings as well as my response and remediation measures and recommendations in a security incident report: ![Report](google/google_cloud_cybersecurity/capstone/capstone_final_report.pdf)
 
 ## Badge
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8354ef22-6812-422d-80d2-9c62951ed9db" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![badge](https://github.com/january1073/training/blob/main/google/google_cloud_cybersecurity/capstone/google_cloud_cybersecurity_badge.png)
+
+Verified by Credly: https://www.credly.com/badges/8354ef22-6812-422d-80d2-9c62951ed9db/public_url
