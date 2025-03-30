@@ -40,7 +40,7 @@ After I remediated all major threats (high and medium severity), the SCC display
 
 ## Security Incident Report
 
-To complete the capsone project, I had to document my findings as well as my response and remediation measures and recommendations in a security incident report: ![Report](google/google_cloud_cybersecurity/capstone/capstone_final_report.pdf)
+To complete the capsone project, I had to document my findings as well as my response and remediation measures and recommendations in a security incident report: ![Report](https://github.com/january1073/training/blob/main/google/google_cloud_cybersecurity/capstone/capstone_final_report.pdf)
 
 ## Badge
 
