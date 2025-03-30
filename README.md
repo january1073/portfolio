@@ -18,7 +18,7 @@
 - IBM, Generative AI for Cybersecurity Professionals: <a href="https://github.com/january1073/portfolio/blob/main/ibm/ibm_genai_for_cybersecurity.pdf">show</a>
 - NYU Tandon School of Engineering, Introduction to Cyber Security: <a href="https://github.com/january1073/portfolio/blob/main/nyu/nyu_intro_cyber_security.pdf">show</a>
 
-## Courses & training projects
+## Courses
 
 - Google Cloud, Google Cloud Fundamentals: Core Infrastructure: <a href="https://github.com/january1073/portfolio/blob/main/google/google_cloud_fundamentals.pdf">show</a>
 - Google Cloud, Introduction to Docker: <a href="https://github.com/january1073/portfolio/blob/main/google/google_intro_docker.pdf">show</a>
@@ -30,4 +30,4 @@
 
 ## Others
 
--TryHackMe, Advent of Cyber 2024: <a href="https://github.com/january1073/portfolio/blob/main/thm/thm_aoc24.pdf">show</a>
+- TryHackMe, Advent of Cyber 2024: <a href="https://github.com/january1073/portfolio/blob/main/thm/thm_aoc24.pdf">show</a>
