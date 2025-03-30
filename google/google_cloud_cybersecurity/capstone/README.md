@@ -1,4 +1,4 @@
-# Google Cloud Cybersecurity Certificate - Capstone Project
+# Respond and Recover from a Data Breach in Google Cloud - Google Cloud Cybersecurity Certificate (Capstone Project)
 For the Google Cloud Cybersecuity Certificate capstone project, in addition to video lectures and multiple-choice questions, I had to complete practical tasks in a Google Cloud lab and create a security incident report.
 
 ## Facts (fictitious)
