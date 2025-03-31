@@ -39,9 +39,9 @@
 
 ### Specializations
 
-- UCCS, Applied Cryptography: <a href="https://github.com/january1073/portfolio/blob/main/uccs/uccs_applied_cryptography.pdf">show</a>
 - IBM, Generative AI for Cybersecurity Professionals: <a href="https://github.com/january1073/portfolio/blob/main/ibm/ibm_genai_for_cybersecurity.pdf">show</a>
 - NYU Tandon School of Engineering, Introduction to Cyber Security: <a href="https://github.com/january1073/portfolio/blob/main/nyu/nyu_intro_cyber_security.pdf">show</a>
+- UCCS, Applied Cryptography: <a href="https://github.com/january1073/portfolio/blob/main/uccs/uccs_applied_cryptography.pdf">show</a>
 
 ### Courses
 
