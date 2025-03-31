@@ -2,6 +2,9 @@
 
 ## Recent projects
 
+### IBM Python Project for AI and Application Development
+![Certificate](...)
+
 ### Respond and recover from a data breach in Google Cloud
 ![Screenshot](https://github.com/january1073/portfolio/blob/main/google/google_cloud_cybersecurity/capstone/1_findings_category.png)
 <a href="https://github.com/january1073/portfolio/tree/main/google/google_cloud_cybersecurity/capstone/README.md">more</a>
@@ -33,6 +36,7 @@
 
 - Google Cloud, Google Cloud Fundamentals: Core Infrastructure: <a href="https://github.com/january1073/portfolio/blob/main/google/google_cloud_fundamentals.pdf">show</a>
 - Google Cloud, Introduction to Docker: <a href="https://github.com/january1073/portfolio/blob/main/google/google_intro_docker.pdf">show</a>
+- IBM, Python Project for AI and Application Development: <a href="https://github.com/january1073/portfolio/blob/main/ibm/ibm_python_for_ai.pdf">show</a>
 - IBM, Quantum-Safe Encryption Essentials: <a href="https://github.com/january1073/portfolio/blob/main/ibm/ibm_quantum-safe.pdf">show</a>
 - IBM, Zero Trust Principles: <a href="https://github.com/january1073/portfolio/blob/main/ibm/ibm_zero_trust.pdf">show</a>
 - Packt, Cisco CCST Networking &ndash; Video Training Series: <a href="https://github.com/january1073/portfolio/blob/main/packt/packt_cisco_ccst_video_training.pdf">show</a>
