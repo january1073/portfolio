@@ -3,7 +3,7 @@
 ## Recent projects
 
 ### IBM Python Project for AI and Application Development
-![Certificate](https://github.com/january1073/portfolio/blob/main/screenshot.png)
+![Certificate](https://github.com/january1073/portfolio/blob/main/ibm_python_for_ai.png)
 
 ---
 
@@ -11,9 +11,18 @@
 ![Screenshot](https://github.com/january1073/portfolio/blob/main/google/google_cloud_cybersecurity/capstone/1_findings_category.png)
 <a href="https://github.com/january1073/portfolio/tree/main/google/google_cloud_cybersecurity/capstone/README.md">more</a>
 
+---
+
+### IBM Python for Data Science and AI
+![Certificate](https://github.com/january1073/portfolio/blob/main/ibm_python_data_science_ai.png)
+
+---
+
 ## Professional experience
 
 - German practicing lawyer since 2015 (focus: information security)
+
+---
 
 ## Education
 
