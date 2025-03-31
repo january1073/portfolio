@@ -29,7 +29,7 @@ In the Google Cloud Security Command Center (SCC), I found several critical vuln
 ![findings_by_resource](https://github.com/january1073/training/blob/main/google/google_cloud_cybersecurity/capstone/2_findings_resource.png)
 
 ### Remediation
-After I have taken the necessary response and remediation actions in Google Cloud to tackle all major vulnerabilities, the SCC displayed the following findings:
+After I have taken the necessary response and remediation actions in Google Cloud to tackle the major vulnerabilities, the SCC displayed only low-severity findings:
 
 #### By category
 
