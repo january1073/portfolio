@@ -47,6 +47,7 @@
 
 - Google Cloud, Google Cloud Fundamentals: Core Infrastructure: <a href="https://github.com/january1073/portfolio/blob/main/google/google_cloud_fundamentals.pdf">show</a>
 - Google Cloud, Introduction to Docker: <a href="https://github.com/january1073/portfolio/blob/main/google/google_intro_docker.pdf">show</a>
+- IBM, Python for Data Science and AI: <a href="https://github.com/january1073/portfolio/blob/main/ibm/ibm_python_data_science_ai.pdf">show</a>
 - IBM, Python Project for AI and Application Development: <a href="https://github.com/january1073/portfolio/blob/main/ibm/ibm_python_for_ai.pdf">show</a>
 - IBM, Quantum-Safe Encryption Essentials: <a href="https://github.com/january1073/portfolio/blob/main/ibm/ibm_quantum-safe.pdf">show</a>
 - IBM, Zero Trust Principles: <a href="https://github.com/january1073/portfolio/blob/main/ibm/ibm_zero_trust.pdf">show</a>
