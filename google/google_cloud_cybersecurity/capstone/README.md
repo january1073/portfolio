@@ -15,7 +15,7 @@ In the lab, my tasks were to respond and recover from the data breach.
 ![title](https://github.com/january1073/training/blob/main/google/google_cloud_cybersecurity/capstone/0_screenshot_title.png)
 
 ### Findings
-In the Google Cloud Security Command Center (SCC), I found several critical vulnerabilities, , i.e. findings with high and medium severity, in particular:
+In the Google Cloud Security Command Center (SCC), I found several critical vulnerabilities, i.e. findings with high and medium severity, in particular:
 
 - Insecure firewall;
 - Exposed VM; and
