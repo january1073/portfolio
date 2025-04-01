@@ -29,7 +29,7 @@
 - Bar admission (Germany)
 - University of London (UK), Postgraduate Diploma in Law
 - Palatinate Higher Regional Court of Zweibrücken (Germany), Second Legal State Examination
-- Johannes Gutengerg University Mainz (Germany), First Legal State Examination
+- Johannes Gutenberg University Mainz (Germany), First Legal State Examination
 
 ### Certificates
 
