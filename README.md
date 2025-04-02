@@ -2,21 +2,9 @@
 
 ## Recent projects
 
-### IBM Python Project for AI and Application Development
-![Certificate](https://github.com/january1073/portfolio/blob/main/ibm_python_for_ai.png)
-
----
-
 ### Respond and recover from a data breach in Google Cloud
 ![Screenshot](https://github.com/january1073/portfolio/blob/main/google/google_cloud_cybersecurity/capstone/1_findings_category.png)
 <a href="https://github.com/january1073/portfolio/tree/main/google/google_cloud_cybersecurity/capstone/README.md">more</a>
-
----
-
-### IBM Python for Data Science and AI
-![Certificate](https://github.com/january1073/portfolio/blob/main/ibm_python_data_science_ai.png)
-
----
 
 ## Professional experience
 
@@ -53,6 +41,7 @@
 - IBM, Zero Trust Principles: <a href="https://github.com/january1073/portfolio/blob/main/ibm/ibm_zero_trust.pdf">show</a>
 - Packt, Cisco CCST Networking &ndash; Video Training Series: <a href="https://github.com/january1073/portfolio/blob/main/packt/packt_cisco_ccst_video_training.pdf">show</a>
 - Packt, YAML Fundamentals for DevOps, Cloud and IaC Engineers: <a href="https://github.com/january1073/portfolio/blob/main/packt/packt_yaml_fundamentals.pdf">show</a>
+- University of Michigan ("Dr. Chuck"): Introduction to Structured Query Language (SQL): <a href="https://github.com/january1073/portfolio/blob/main/u-m/u-m_intro_to_sql.pdf">show</a>
 - Yonsei University, Introduction to TCP/IP: <a href="https://github.com/january1073/portfolio/blob/main/yonsei/yonsei_intro_tcp_ip.pdf">show</a>
 
 ### Others
