@@ -23,30 +23,30 @@
 
 ### Certificates
 
-- Google Cloud Cybersecurity Certificate: <a href="https://www.credly.com/badges/8354ef22-6812-422d-80d2-9c62951ed9db/public_url">show</a>
-- IBM, Cybersecurity Analyst Professional Certificate: <a href="https://github.com/january1073/portfolio/blob/main/ibm/ibm_cybersecurity_analyst.pdf">show</a>
-- ISC2, Certified in Cybersecurity: <a href="https://github.com/january1073/portfolio/blob/main/isc2/isc2_cc.pdf">show</a>
+- Google Cloud Cybersecurity Certificate: <a href="https://github.com/january1073/portfolio/blob/main/google/google_cloud_cybersecurity/capstone/README.md">summary</a> | <a href="https://www.credly.com/badges/8354ef22-6812-422d-80d2-9c62951ed9db/public_url">certification</a>
+- IBM, Cybersecurity Analyst Professional Certificate: <a href="https://github.com/january1073/portfolio/blob/main/ibm/ibm_cybersecurity_analyst.pdf">certification</a>
+- ISC2, Certified in Cybersecurity: <a href="https://github.com/january1073/portfolio/blob/main/isc2/isc2_cc.pdf">certification</a>
 
 ### Specializations
 
-- IBM, Generative AI for Cybersecurity Professionals: <a href="https://github.com/january1073/portfolio/blob/main/ibm/ibm_genai_for_cybersecurity.pdf">show</a>
-- NYU Tandon School of Engineering, Introduction to Cyber Security: <a href="https://github.com/january1073/portfolio/blob/main/nyu/nyu_intro_cyber_security.pdf">show</a>
-- UCCS, Applied Cryptography: <a href="https://github.com/january1073/portfolio/blob/main/uccs/uccs_applied_cryptography.pdf">show</a>
+- IBM, Generative AI for Cybersecurity Professionals: <a href="https://github.com/january1073/portfolio/blob/main/ibm/ibm_genai_for_cybersecurity.pdf">certification</a>
+- NYU Tandon School of Engineering, Introduction to Cyber Security: <a href="https://github.com/january1073/portfolio/blob/main/nyu/nyu_intro_cyber_security.pdf">certification</a>
+- UCCS, Applied Cryptography: <a href="https://github.com/january1073/portfolio/blob/main/uccs/uccs_applied_cryptography.pdf">certification</a>
 
 ### Courses
 
-- Google Cloud, Cloud SQL for MySQL: Qwik Start: <a href="https://github.com/january1073/portfolio/blob/main/google/google_cloud_sql_for_mysql.pdf">show</a>
-- Google Cloud, Google Cloud Fundamentals: Core Infrastructure: <a href="https://github.com/january1073/portfolio/blob/main/google/google_cloud_fundamentals.pdf">show</a>
-- Google Cloud, Introduction to Docker: <a href="https://github.com/january1073/portfolio/blob/main/google/google_intro_docker.pdf">show</a>
-- IBM, Python for Data Science and AI: <a href="https://github.com/january1073/portfolio/blob/main/ibm/ibm_python_data_science_ai.pdf">show</a>
-- IBM, Python Project for AI and Application Development: <a href="https://github.com/january1073/portfolio/blob/main/ibm/ibm_python_for_ai.pdf">show</a>
-- IBM, Quantum-Safe Encryption Essentials: <a href="https://github.com/january1073/portfolio/blob/main/ibm/ibm_quantum-safe.pdf">show</a>
-- IBM, Zero Trust Principles: <a href="https://github.com/january1073/portfolio/blob/main/ibm/ibm_zero_trust.pdf">show</a>
-- Packt, Cisco CCST Networking &ndash; Video Training Series: <a href="https://github.com/january1073/portfolio/blob/main/packt/packt_cisco_ccst_video_training.pdf">show</a>
+- Google Cloud, Cloud SQL for MySQL: Qwik Start: <a href="https://github.com/january1073/portfolio/blob/main/google/cloud_sql_for_mysql/README.md">summary</a> | <a href="https://github.com/january1073/portfolio/blob/main/google/google_cloud_sql_for_mysql.pdf">certification</a>
+- Google Cloud, Google Cloud Fundamentals: Core Infrastructure: <a href="https://github.com/january1073/portfolio/blob/main/google/google_cloud_fundamentals.pdf">certification</a>
+- Google Cloud, Introduction to Docker: <a href="https://github.com/january1073/portfolio/blob/main/google/google_intro_docker.pdf">certification</a>
+- IBM, Python for Data Science and AI: <a href="https://github.com/january1073/portfolio/blob/main/ibm/ibm_python_data_science_ai.pdf">certification</a>
+- IBM, Python Project for AI and Application Development: <a href="https://github.com/january1073/portfolio/blob/main/ibm/ibm_python_for_ai.pdf">certification</a>
+- IBM, Quantum-Safe Encryption Essentials: <a href="https://github.com/january1073/portfolio/blob/main/ibm/ibm_quantum-safe.pdf">certification</a>
+- IBM, Zero Trust Principles: <a href="https://github.com/january1073/portfolio/blob/main/ibm/ibm_zero_trust.pdf">certification</a>
+- Packt, Cisco CCST Networking &ndash; Video Training Series: <a href="https://github.com/january1073/portfolio/blob/main/packt/packt_cisco_ccst_video_training.pdf">certification</a>
 - Packt, YAML Fundamentals for DevOps, Cloud and IaC Engineers: <a href="https://github.com/january1073/portfolio/blob/main/packt/packt_yaml_fundamentals.pdf">show</a>
-- University of Michigan ("Dr. Chuck"): Introduction to Structured Query Language (SQL): <a href="https://github.com/january1073/portfolio/blob/main/u-m/u-m_intro_to_sql.pdf">show</a>
-- Yonsei University, Introduction to TCP/IP: <a href="https://github.com/january1073/portfolio/blob/main/yonsei/yonsei_intro_tcp_ip.pdf">show</a>
+- University of Michigan ("Dr. Chuck"): Introduction to Structured Query Language (SQL): <a href="https://github.com/january1073/portfolio/blob/main/u-m/u-m_intro_to_sql/README.md">summary</a> | <a href="https://github.com/january1073/portfolio/blob/main/u-m/u-m_intro_to_sql.pdf">certification</a>
+- Yonsei University, Introduction to TCP/IP: <a href="https://github.com/january1073/portfolio/blob/main/yonsei/yonsei_intro_tcp_ip.pdf">certification</a>
 
 ### Others
 
-- TryHackMe, Advent of Cyber 2024: <a href="https://github.com/january1073/portfolio/blob/main/thm/thm_aoc24.pdf">show</a>
+- TryHackMe, Advent of Cyber 2024: <a href="https://github.com/january1073/portfolio/blob/main/thm/thm_aoc24.pdf">certification</a>
