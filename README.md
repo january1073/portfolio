@@ -6,6 +6,9 @@
 ![Screenshot](https://github.com/january1073/portfolio/blob/main/google/google_cloud_cybersecurity/capstone/1_findings_category.png)
 <a href="https://github.com/january1073/portfolio/tree/main/google/google_cloud_cybersecurity/capstone/README.md">more</a>
 
+---
+
+
 ## Professional experience
 
 - German practicing lawyer since 2015 (focus: information security)
