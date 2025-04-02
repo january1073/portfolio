@@ -1,6 +1,6 @@
 # Create a MySQL database and upload data in Google Cloud SQL
 
-![Screenshot](https://github.com/january1073/portfolio/blob/main/google/cloud_sql_for_mysql/task0.png)
+![Screenshot]()
 
 ### Task 1: Create a Cloud SQL instance
 
