@@ -14,7 +14,7 @@
 
 ---
 
-## Education
+## Education & training
 
 - Bar admission (Germany)
 - University of London (UK), Postgraduate Diploma in Law
