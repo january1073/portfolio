@@ -4,6 +4,8 @@
 
 Build a copy of the "Music" database covered in the lecture. populate the database with tracks, artists, albums and genres that are different from the ones used in class. Include three artists, five albums, and 20 tracks in your data. Choose a genre for each track. Your tables need to normalized as described in class. Then, construct and run some queries on your data and take screen shots of those queries.
 
+### My queries
+
 ![Screenshot](https://github.com/january1073/portfolio/blob/main/u-m/u-m_intro_to_sql/task1-1.png)
 ![Screenshot](https://github.com/january1073/portfolio/blob/main/u-m/u-m_intro_to_sql/task1-2.png)
 ![Screenshot](https://github.com/january1073/portfolio/blob/main/u-m/u-m_intro_to_sql/task1-3.png)
@@ -18,12 +20,13 @@ Normalize and insert the following data items into your database, creating and l
 
 ![Screenshot2](https://github.com/january1073/portfolio/blob/main/u-m/u-m_intro_to_sql/task2-2.png)
 
-When you have the data all inserted, use phpMyAdmin to Export the data as a JSON file. (**Note**: I did not use phpMyAdmin but instead executed all tasks via the Linux command line interface.)
+When you have the data all inserted, use phpMyAdmin to Export the data as a JSON file.
 
-Preliminary result: SQL file
+### My files
 
-Final result: JSON file
+- Preliminary result: [SQL file](https://github.com/january1073/portfolio/blob/main/u-m/u-m_intro_to_sql/roster.sql)
+- Final result:
 
 ![Screenshot2](https://github.com/january1073/portfolio/blob/main/u-m/u-m_intro_to_sql/task2-3.png)
 
-Course certificate: show
+Course certificate: [show](https://github.com/january1073/portfolio/blob/main/u-m/u-m_intro_to_sql.pdf)
