@@ -1,6 +1,11 @@
 # Portfolio
 
-I am Tim, a German lawyer with a focus on information security. In my spare time, I also deal with the technical side of things. I am particularly interested in cybersecurity and artificial intelligence.
+<div>
+<img align="left" width="150" src="https://github.com/january1073/portfolio/blob/main/tim.jpg" style="margin-right: 20px;"/>
+
+I am Tim, a German lawyer with a focus on **information security**. In my spare time, I also deal with the technical side of things. I am particularly interested in **cybersecurity** and **artificial intelligence**.
+</div>
+<br clear="both"/> <!-- This ensures content below doesn't wrap around -->
 
 ## Recent projects
 
