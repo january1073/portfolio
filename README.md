@@ -1,5 +1,7 @@
 # Portfolio
 
+I am Tim, a German lawyer with a focus on information security. In my spare time, I also deal with the technical side of things. I am particularly interested in cybersecurity and artificial intelligence.
+
 ## Recent projects
 
 ### Respond and recover from a data breach in Google Cloud
