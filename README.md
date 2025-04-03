@@ -3,7 +3,7 @@
 <div>
 <img align="left" width="150" src="https://github.com/january1073/portfolio/blob/main/tim.jpg" style="margin-right: 20px;"/>
 
-I am Tim, a German practising lawyer specialising in **information security**. In my spare time, I also tinker with the technical side of things. I am particularly interested in **cybersecurity** and **artificial intelligence**.
+I am Tim, a German practising lawyer specialising in **information security**. In my spare time, I also tinker with the technical side of things. I am particularly interested in **cybersecurity**, **cloud computing**, and **artificial intelligence**.
 </div>
 <br clear="both"/> <!-- This ensures content below doesn't wrap around -->
 
@@ -37,6 +37,7 @@ I am Tim, a German practising lawyer specialising in **information security**. I
 ### Specializations
 
 - IBM, Generative AI for Cybersecurity Professionals: <a href="https://github.com/january1073/portfolio/blob/main/ibm/ibm_genai_for_cybersecurity.pdf">certification</a>
+- Infosec, Advanced Python Scripting for Cybersecurity: <a href="https://github.com/january1073/portfolio/blob/main/infosec/infosec_advanced_python_cybersecurity.pdf">certification</a>
 - Infosec, Python for Cybersecurity : <a href="https://github.com/january1073/portfolio/blob/main/infosec/infosec_python_cybersecurity.pdf">certification</a>
 - NYU Tandon School of Engineering, Introduction to Cyber Security: <a href="https://github.com/january1073/portfolio/blob/main/nyu/nyu_intro_cyber_security.pdf">certification</a>
 - Splunk, Splunk Search Expert: <a href="https://github.com/january1073/portfolio/blob/main/splunk/splunk_search_expert.pdf">certification</a>
