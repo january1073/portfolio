@@ -32,6 +32,7 @@
 - IBM, Generative AI for Cybersecurity Professionals: <a href="https://github.com/january1073/portfolio/blob/main/ibm/ibm_genai_for_cybersecurity.pdf">certification</a>
 - Infosec, Python for Cybersecurity : <a href="https://github.com/january1073/portfolio/blob/main/infosec/infosec_python_cybersecurity.pdf">certification</a>
 - NYU Tandon School of Engineering, Introduction to Cyber Security: <a href="https://github.com/january1073/portfolio/blob/main/nyu/nyu_intro_cyber_security.pdf">certification</a>
+- Splunk, Splunk Search Expert: <a href="https://github.com/january1073/portfolio/blob/main/splunk/splunk_search_expert.pdf">certification</a>
 - UCCS, Applied Cryptography: <a href="https://github.com/january1073/portfolio/blob/main/uccs/uccs_applied_cryptography.pdf">certification</a>
 
 ### Courses
