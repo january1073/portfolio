@@ -88,7 +88,7 @@ After I had taken these remediation actions in Google Cloud, I verified complian
 
 ## Security Incident Report
 
-To complete the capsone project, I had to document my findings in a security incident report. This report details the response and remediation actions taken, as well as recommendations to mitigate similar risks in the future: ![final report](https://github.com/january1073/training/blob/main/google/google_cloud_cybersecurity/capstone/capstone_final_report.pdf)
+To complete the capsone project, I had to document my findings in a security incident report. This report detailed the response and remediation actions taken, as well as recommendations to mitigate similar risks in the future: ![final report](https://github.com/january1073/training/blob/main/google/google_cloud_cybersecurity/capstone/capstone_final_report.pdf)
 
 ## Badge
 
