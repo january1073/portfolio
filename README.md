@@ -18,6 +18,7 @@ I am Tim, a practising lawyer specialising in **information security**. In my sp
 ## Professional experience
 
 - German practicing lawyer since 2015 (focus: information security)
+- 1999/2000: PFC, RTO in the German Federal Armed Forces
 
 ---
 
