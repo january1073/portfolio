@@ -82,7 +82,7 @@ In order to remediate the critical findings, I fixed the compute engine vulnerab
 
 
 #### Compliance
-After I have taken these remediation actions in Google Cloud, I verified compliance in the PCI DSS 3.2.1 report:
+After I had taken these remediation actions in Google Cloud, I verified compliance in the PCI DSS 3.2.1 report:
 
 ![findings](https://github.com/january1073/training/blob/main/google/google_cloud_cybersecurity/capstone/screenshot14.png)
 
