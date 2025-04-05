@@ -15,29 +15,76 @@ In the lab, my tasks were to respond and recover from the data breach.
 ![title](https://github.com/january1073/training/blob/main/google/google_cloud_cybersecurity/capstone/0_screenshot_title.png)
 
 ### Findings
-In the Google Cloud Security Command Center (SCC), I found several critical vulnerabilities, i.e. findings with high and medium severity, in particular:
+The Cloud Security Command Center (SCC), PCI DSS 3.2.1 report, displayed the following critical vulnerabilities, i.e. findings with high and medium severity:
 
-- Insecure firewall;
-- Exposed VM; and
-- Publicly accessible storage bucket.
+![findings](https://github.com/january1073/training/blob/main/google/google_cloud_cybersecurity/capstone/screenshot02.png)
 
+#### Insecure firewall
+- Open SSH port
+- Open RDP port
+- Firewall rule logging disabled
 
-#### By category:
-![findings_by_category](https://github.com/january1073/training/blob/main/google/google_cloud_cybersecurity/capstone/1_findings_category.png)
+#### Exposed compute instance cc-app-01
+- Malware bad domain
+- Compute secure boot disabled
+- Default service account used
+- Public IP address
+- Full API access
 
-#### By resource:
-![findings_by_resource](https://github.com/january1073/training/blob/main/google/google_cloud_cybersecurity/capstone/2_findings_resource.png)
+#### Publicly accessible storage bucket
+- Public bucket ACL
+- Bucket policy only disabled
+- Bucket logging disabled
 
 ### Remediation
-After I have taken the necessary response and remediation actions in Google Cloud to tackle the major vulnerabilities, the SCC displayed only low-severity findings:
+In order to remediate the critical findings, I fixed the compute engine vulnerabilities and cloud storage bucket permissions, limited firewall ports access and, finally, verified compliance.
 
-#### By category
+#### Compute Engine vulnerabilities
 
-![remediation_by_category](https://github.com/january1073/training/blob/main/google/google_cloud_cybersecurity/capstone/3_remediation_category.png)
+- I shut down the vulnerable VM cc-app-01 and created a new VM cc-app-02 from a snapshot.
 
-#### By resource
+  ![findings](https://github.com/january1073/training/blob/main/google/google_cloud_cybersecurity/capstone/screenshot03.png)
 
-![remediation_by_resource](https://github.com/january1073/training/blob/main/google/google_cloud_cybersecurity/capstone/3_remediation_category.png)
+  ![findings](https://github.com/january1073/training/blob/main/google/google_cloud_cybersecurity/capstone/screenshot04.png)
+
+- I turned on "Secure Boot" for the new VM.
+
+  ![findings](https://github.com/january1073/training/blob/main/google/google_cloud_cybersecurity/capstone/screenshot05.png)
+
+- I deleted the compromised VM cc-app-01.
+
+  ![findings](https://github.com/january1073/training/blob/main/google/google_cloud_cybersecurity/capstone/screenshot06.png)
+
+#### Cloud Storage bucket permissions
+
+- I switched the publicly accessible bucket's access control to uniform but ensured that users who rely on basic project roles to access the bucket wouldn't lose their access.
+
+  ![findings](https://github.com/january1073/training/blob/main/google/google_cloud_cybersecurity/capstone/screenshot08.png)
+
+- I removed permissions for the "allUsers" principals from the storage bucket to enforce a single set of permissions for the bucket and its objects.
+
+  ![findings](https://github.com/january1073/training/blob/main/google/google_cloud_cybersecurity/capstone/screenshot09.png)
+
+#### Firewall ports access
+
+- I restricted ICMP, RDP, and SSH access, ...
+
+  ![findings](https://github.com/january1073/training/blob/main/google/google_cloud_cybersecurity/capstone/screenshot12.png)
+
+- ... customized firewall rules, ...
+
+  ![findings](https://github.com/january1073/training/blob/main/google/google_cloud_cybersecurity/capstone/screenshot10.png)
+  ![findings](https://github.com/january1073/training/blob/main/google/google_cloud_cybersecurity/capstone/screenshot11.png)
+
+- ... and enabled logging.
+
+![findings](https://github.com/january1073/training/blob/main/google/google_cloud_cybersecurity/capstone/screenshot13.png)
+
+
+#### Compliance
+After I have taken these remediation actions in Google Cloud, I verified compliance in the PCI DSS 3.2.1 report:
+
+![findings](https://github.com/january1073/training/blob/main/google/google_cloud_cybersecurity/capstone/screenshot14.png)
 
 ## Security Incident Report
 
