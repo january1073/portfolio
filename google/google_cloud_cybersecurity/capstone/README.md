@@ -12,8 +12,6 @@ BigQuery via a publicly exposed storage bucket.
 ## Lab
 In the lab, my tasks were to respond and recover from the data breach.
 
-![title](https://github.com/january1073/training/blob/main/google/google_cloud_cybersecurity/capstone/0_screenshot_title.png)
-
 ### Findings
 The Cloud Security Command Center (SCC), PCI DSS 3.2.1 report, displayed the following critical vulnerabilities, i.e. findings with high and medium severity:
 
