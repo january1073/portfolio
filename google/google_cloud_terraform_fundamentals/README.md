@@ -5,8 +5,8 @@ Google Cloud Self-Paced Lab "Terraform Fundamentals"
 
 - Google Cloud Shell: `terraform`
 
-  [screenshot01]
-
+  ![screenshot](https://github.com/january1073/portfolio/blob/main/google/google_cloud_terraform_fundamentals/screenshot01.png)
+  
 ## 2. Build infrastructure
 
 ### 2.1 Configuration
@@ -15,7 +15,7 @@ Google Cloud Self-Paced Lab "Terraform Fundamentals"
 
 - Open the file and add your configuration, e.g.,
 
-  [screenshot02]
+  ![screenshot](https://github.com/january1073/portfolio/blob/main/google/google_cloud_terraform_fundamentals/screenshot02.png)
 
   The format of the configuration files can be found in the Terraform Language Documentation: https://www.terraform.io/docs/configuration/index.html
   
@@ -25,25 +25,25 @@ Google Cloud Self-Paced Lab "Terraform Fundamentals"
 
 - Download & install provider binary: `terraform init`
 
-  [screenshot03]
+  ![screenshot](https://github.com/january1073/portfolio/blob/main/google/google_cloud_terraform_fundamentals/screenshot03.png)
 
 - Create an execution plan: `terraform plan`
 
-  [screenshot04a]
-  [screenshot04b]
+  ![screenshot](https://github.com/january1073/portfolio/blob/main/google/google_cloud_terraform_fundamentals/screenshot4a.png)
+  ![screenshot](https://github.com/january1073/portfolio/blob/main/google/google_cloud_terraform_fundamentals/screenshot4b.png)
 
 ### 2.3 Apply changes
 
 - `terraform apply`, when prompted, confirm changes with `yes`
 
-  [screenshot05a]
-  [screenshot05b]
+  ![screenshot](https://github.com/january1073/portfolio/blob/main/google/google_cloud_terraform_fundamentals/screenshot5a.png)
+  ![screenshot](https://github.com/january1073/portfolio/blob/main/google/google_cloud_terraform_fundamentals/screenshot5b.png)
   
 - Verify the current state: `terraform show`
 
-  [screenshot06a]
-  [screenshot06b]
+  ![screenshot](https://github.com/january1073/portfolio/blob/main/google/google_cloud_terraform_fundamentals/screenshot06a.png)
+  ![screenshot](https://github.com/january1073/portfolio/blob/main/google/google_cloud_terraform_fundamentals/screenshot06b.png)
   
 ## Project certification
 
-[screenshot07]
+![screenshot](https://github.com/january1073/portfolio/blob/main/google/google_cloud_terraform_fundamentals/screenshot07.png)
