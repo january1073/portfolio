@@ -54,6 +54,7 @@ I am Tim, a practising lawyer specialising in **information security**. In my sp
 - Google Cloud, Cloud SQL for MySQL: Qwik Start: <a href="https://github.com/january1073/portfolio/blob/main/google/cloud_sql_for_mysql/README.md">write-up</a> | <a href="https://github.com/january1073/portfolio/blob/main/google/google_cloud_sql_for_mysql.pdf">certification</a>
 - Google Cloud, Google Cloud Fundamentals: Core Infrastructure: <a href="https://github.com/january1073/portfolio/blob/main/google/google_cloud_fundamentals.pdf">certification</a>
 - Google Cloud, Introduction to Docker: <a href="https://github.com/january1073/portfolio/blob/main/google/google_intro_docker.pdf">certification</a>
+- Google Cloud, Securing Container Builds: <a href="https://github.com/january1073/portfolio/blob/main/google/google_cloud_securing_container_builds.pdf">certification</a>
 - Google Cloud, Terraform Fundamentals: <a href="https://github.com/january1073/portfolio/blob/main/google/google_cloud_terraform_fundamentals/README.md">write-up</a> | <a href="https://github.com/january1073/portfolio/blob/main/google/google_cloud_terraform_fundamentals/google_cloud_terraform_fundamentals.pdf">certification</a>
 - IBM, Python for Data Science and AI: <a href="https://github.com/january1073/portfolio/blob/main/ibm/ibm_python_data_science_ai.pdf">certification</a>
 - IBM, Python Project for AI and Application Development: <a href="https://github.com/january1073/portfolio/blob/main/ibm/ibm_python_for_ai.pdf">certification</a>
