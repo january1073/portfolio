@@ -10,7 +10,6 @@ access by exploiting open ports on the cc-app-01 VM, executed a brute-force atta
 BigQuery via a publicly exposed storage bucket.
 
 ## Lab
-In the lab, my tasks were to respond and recover from the data breach.
 
 ### Findings
 The Cloud Security Command Center (SCC), PCI DSS 3.2.1 report, displayed the following critical vulnerabilities, i.e. findings with high and medium severity:
