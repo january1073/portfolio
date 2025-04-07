@@ -29,15 +29,15 @@ Google Cloud Self-Paced Lab "Terraform Fundamentals"
 
 - Create an execution plan: `terraform plan`
 
-  ![screenshot](https://github.com/january1073/portfolio/blob/main/google/google_cloud_terraform_fundamentals/screenshot4a.png)
-  ![screenshot](https://github.com/january1073/portfolio/blob/main/google/google_cloud_terraform_fundamentals/screenshot4b.png)
+  ![screenshot](https://github.com/january1073/portfolio/blob/main/google/google_cloud_terraform_fundamentals/screenshot04a.png)
+  ![screenshot](https://github.com/january1073/portfolio/blob/main/google/google_cloud_terraform_fundamentals/screenshot04b.png)
 
 ### 2.3 Apply changes
 
 - `terraform apply`, when prompted, confirm changes with `yes`
 
-  ![screenshot](https://github.com/january1073/portfolio/blob/main/google/google_cloud_terraform_fundamentals/screenshot5a.png)
-  ![screenshot](https://github.com/january1073/portfolio/blob/main/google/google_cloud_terraform_fundamentals/screenshot5b.png)
+  ![screenshot](https://github.com/january1073/portfolio/blob/main/google/google_cloud_terraform_fundamentals/screenshot05a.png)
+  ![screenshot](https://github.com/january1073/portfolio/blob/main/google/google_cloud_terraform_fundamentals/screenshot05b.png)
   
 - Verify the current state: `terraform show`
 
