@@ -3,7 +3,7 @@
 <div>
 <img align="left" width="150" src="https://github.com/january1073/portfolio/blob/main/tim.jpg" style="margin-right: 20px;"/>
 
-I am Tim, a practising lawyer specialising in **information security**. In my spare time, I also tinker with the technical side of things. I am particularly interested in **cybersecurity**, **cloud computing**, and **artificial intelligence**.
+I am a practising lawyer specialising in **information security**. In my spare time, I also tinker with the technical side of things. I am particularly interested in **cybersecurity**, **cloud computing**, and **artificial intelligence**.
 
 <a href="https://x.com/january1073"><img src="https://img.shields.io/badge/X.com-magenta?style=flat-square" alt="Badge"></a> <a href="https://infosec.exchange/@january1073" target="_blank"><img src="https://img.shields.io/badge/Mastodon-magenta?style=flat-square" alt="Badge"></a> <a href="https://www.linkedin.com/in/fongern" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-magenta?style=flat-square" alt="Badge"></a> <a href="https://tryhackme.com/p/january1073"><img src="https://img.shields.io/badge/TryHackMe-magenta?style=flat-square" alt="Badge"></a>
 
