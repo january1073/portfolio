@@ -14,8 +14,16 @@ I am a practising lawyer specialising in **information security**. In my spare t
 
 ## Recent projects
 
+### Unmasking Metasploitable2: Vulnerability Scan Using Nessus
+![Screenshot](https://github.com/january1073/portfolio/blob/main/2025_identify_vulnerabilities_with_nessus.png)
+
+<a href="https://january1073.medium.com/unmasking-metasploitable2-988d2ed3fe67">more</a>
+
+---
+
 ### Respond and recover from a data breach in Google Cloud
 ![Screenshot](https://github.com/january1073/portfolio/blob/main/google/google_cloud_cybersecurity/capstone/1_findings_category.png)
+
 <a href="https://github.com/january1073/portfolio/tree/main/google/google_cloud_cybersecurity/capstone/README.md">more</a>
 
 ---
