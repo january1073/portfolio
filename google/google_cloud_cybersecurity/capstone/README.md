@@ -1,4 +1,4 @@
-# Respond and recover from a data breach in Google Cloud
+# Respond and Recover from a Data Breach in Google Cloud
 ### Capstone project of the Google Cloud Cybersecurity Certificate
 For the Google Cloud Cybersecuity Certificate capstone project, in addition to video lectures and multiple-choice questions, I had to complete practical tasks in a Google Cloud lab and create a security incident report.
 
