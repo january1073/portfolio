@@ -47,6 +47,7 @@ I am a practising lawyer specialising in **information security**. In my spare t
 - Google Cloud Cybersecurity Certificate: <a href="https://github.com/january1073/portfolio/blob/main/google/google_cloud_cybersecurity/capstone/README.md">capstone</a> | <a href="https://www.credly.com/badges/8354ef22-6812-422d-80d2-9c62951ed9db/public_url">certification</a>
 - IBM, Cybersecurity Analyst Professional Certificate: <a href="https://github.com/january1073/portfolio/blob/main/ibm/ibm_cybersecurity_analyst.pdf">certification</a>
 - ISC2, Certified in Cybersecurity: <a href="https://github.com/january1073/portfolio/blob/main/isc2/isc2_cc.pdf">certification</a>
+- Microsoft IT Support Specialist: <a href="https://github.com/january1073/portfolio/blob/main/microsoft/ms_it_support_specialist.pdf">certification</a>
 
 ### Specializations
 
