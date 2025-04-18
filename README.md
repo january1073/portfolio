@@ -47,7 +47,7 @@ I am a practising lawyer specialising in **information security**. In my spare t
 - Google Cloud Cybersecurity Certificate
 - IBM, Cybersecurity Analyst Professional Certificate
 - ISC2, Certified in Cybersecurity
-- Microsoft IT Support Specialist
+- Microsoft IT Support Specialist: [certificate](https://github.com/january1073/portfolio/blob/main/microsoft/microsoft_it_support_specialist/README.md)
 
 ### Specializations
 
