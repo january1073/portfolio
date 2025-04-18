@@ -1,1 +1,2 @@
-![certificate](https://github.com/january1073/portfolio/blob/main/microsoft/microsoft_it_support_specialist/microsoft_it_support_specialist.pdf)
+# Microsoft IT Support Specialist
+* [Certificate](https://github.com/january1073/portfolio/blob/main/microsoft/microsoft_it_support_specialist/microsoft_it_support_specialist.pdf)
