@@ -18,7 +18,7 @@
 
 ## Professional experience
 
-- German practicing lawyer since 2015 (focus: information security)
+- German practicing lawyer since 10+ years (focus: information security)
 - 1999/2000 PFC/RTO in the German Federal Armed Forces
 
 ---
